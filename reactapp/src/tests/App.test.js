@@ -6,7 +6,7 @@ import About from './components/About';
 import Destination from './components/Destination';
 import Contact from './components/Contact';
 import Home from './components/Home';
-import App from './App';
+
 
 test('test_case1', () => {
   render(
